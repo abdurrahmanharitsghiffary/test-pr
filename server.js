@@ -2,7 +2,7 @@ const loler = "HALLO";
 const sup = "SUPEREM";
 
 const hello = () => {
-  const pool = 10;
+  const pool = 1000;
   return pool;
 };
 
