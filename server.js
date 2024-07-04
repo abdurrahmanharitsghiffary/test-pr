@@ -2,8 +2,8 @@ const loler = "HALLO";
 const sup = "SUPEREM";
 
 const hello = () => {
-  console.log(loler);
-  return loler;
+  const pool = 10;
+  return pool;
 };
 
 const HELLO = "WORLD";
